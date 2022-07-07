@@ -2,11 +2,11 @@
 
 Teste para a vaga de Devops na Audaces.
 
-##Projeto
+## Projeto
 
 API Flask contendo apenas um endpoint.
 
-####Setup:
+#### Setup:
 
 Windows 
 ```
@@ -22,7 +22,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-####Para rodar o projeto execute os comandos abaixo:
+### Para rodar o projeto execute os comandos abaixo:
 ```
 set FLASK_APP=app.py
 flask run
