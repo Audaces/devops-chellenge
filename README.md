@@ -45,7 +45,9 @@ Os objetivos deste desafio são:
  
 Extras:
 
+* Encontar problemas/erros/vulnerabilidades
 * Deploy em uma conta FreeTier na AWS
+
     
 ### Notas
  * Sinta se a vontade para utilizar os frameworks e ferramentas de sua preferência.
